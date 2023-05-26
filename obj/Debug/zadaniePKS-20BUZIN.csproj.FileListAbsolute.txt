@@ -1,0 +1,15 @@
+C:\Users\Студент\Desktop\zadaniePKS-20BUZIN\bin\Debug\zadaniePKS-20BUZIN.exe.config
+C:\Users\Студент\Desktop\zadaniePKS-20BUZIN\bin\Debug\zadaniePKS-20BUZIN.exe
+C:\Users\Студент\Desktop\zadaniePKS-20BUZIN\bin\Debug\zadaniePKS-20BUZIN.pdb
+C:\Users\Студент\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.exe
+C:\Users\Студент\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.pdb
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\bin\Debug\zadaniePKS-20BUZIN.exe.config
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\bin\Debug\zadaniePKS-20BUZIN.exe
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\bin\Debug\zadaniePKS-20BUZIN.pdb
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.csproj.AssemblyReference.cache
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.csproj.CoreCompileInputs.cache
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.exe
+C:\Users\Skalleta\Desktop\zadaniePKS-20BUZIN\obj\Debug\zadaniePKS-20BUZIN.pdb
